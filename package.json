@@ -8,7 +8,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "hello-lib": "git+https://github.com/Coruscant11/hello-lib.git"
+    "hello-lib": "git+https://github.com/ybad222/hello-lib-Yasmine.git"
   },
   "keywords": [],
   "license": "MIT"
